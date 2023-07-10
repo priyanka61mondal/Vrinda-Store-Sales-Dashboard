@@ -1,4 +1,4 @@
-# Vrinda-Store-Sales-Dashboard
+# Vrinda-Store-Sales-Report-2022-Data-Analysis
 
 Hello connections,
 I am sharing my first data analysis project with the help of MS Excel. I have picked the dataset from the youtube channel “Rishabh Mishra” .
