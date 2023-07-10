@@ -1,7 +1,8 @@
 # Vrinda-Store-Sales-Dashboard
-I am sharing my first data analysis project with the help of MS Excel.
+
 Hello connections,
 I am sharing my first data analysis project with the help of MS Excel. I have picked the dataset from the youtube channel “Rishabh Mishra” .
+
 Objective:
 Vrinda Store wants to create an annual sales report for 2022, so that the store can understand their marketing strategy and grow more sales in 2023.
 
@@ -18,6 +19,7 @@ Analysis:
 · I did data cleaning to remove duplicates and null values and made an Age group column from Age column using IF function.
 · Created PivotTable to summarize the data and create charts and graphs to solve the business problems.
 · Lastly , I have built a dashboard in excel with slicers so that users can interact with the dashboard and view it in different ways to get results.
+
 Key insights:
 1. March month recorded the highest sales and orders.
 2. Women purchased more than men (64%)
